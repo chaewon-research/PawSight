@@ -1,0 +1,8 @@
+private/
+raw-data/
+interview-notes/
+respondents/
+.env
+.env.*
+.DS_Store
+Thumbs.db
