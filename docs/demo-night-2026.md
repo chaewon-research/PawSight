@@ -14,12 +14,12 @@ PawSight was presented through a printed poster and a concept walkthrough focuse
 
 ## Materials
 
-- [Competition poster](../assets/PawSight_TEL_Demo_Night_Poster.pptx)
-- [Poster preview](../assets/PawSight_TEL_Demo_Night_Poster.png)
+- [Competition poster content](poster-content.md)
+- [Product concept visualization](../assets/PawSight_Interface_Concept.svg)
 - [Prepared pitch](prepared-pitch.md)
 - [Customer discovery](customer-discovery.md)
 - [Competitor research](competitive-landscape.md)
 
 [UW-Madison event listing](https://entrepreneurship.wisc.edu/event/tel-demo-night-11-18-26/)
 
-The [concept interface illustration](../assets/PawSight_Interface_Concept.png) documents a possible product design; it was not a live software demonstration at the event.
+The [concept interface illustration](../assets/PawSight_Interface_Concept.svg) documents a possible product design; it was not a live software demonstration at the event.
