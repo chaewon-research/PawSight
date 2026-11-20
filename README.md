@@ -7,7 +7,7 @@ UW-Madison Tech Exploration Lab Demo Night | November 19, 2026
 
 Chaewon Yoon | Solo founder
 
-<img src="assets/PawSight_Logo.svg" alt="PawSight logo" width="320">
+<img src="assets/PawSight_Logo.png" alt="PawSight logo" width="320">
 
 ## The problem
 
@@ -61,15 +61,21 @@ PawSight's focus is **the decision that follows the estimate**: combining bill d
 
 ## Concept interface
 
-![PawSight case review concept](assets/PawSight_Interface_Concept.svg)
+![PawSight case review concept](assets/PawSight_Interface_Concept.png)
 
 *Concept interface showing how a PawSight case review could work. This is a static design visualization.*
+
+## Demo Night poster
+
+<a href="assets/PawSight_TEL_Demo_Night_Poster.png"><img src="assets/PawSight_TEL_Demo_Night_Poster.png" alt="PawSight TEL Demo Night poster" width="330"></a>
 
 ## Demo Night and project materials
 
 PawSight was presented at **UW-Madison Tech Exploration Lab Demo Night** on November 19, 2026, in the **Early Idea, Poster and Concept Only** format, and received the **Judge's Choice Award in the Most Innovative track**.
 
 - [Demo Night record](docs/demo-night-2026.md)
+- [Original Demo Night poster (PowerPoint)](assets/PawSight_TEL_Demo_Night_Poster.pptx)
+- [Poster preview](assets/PawSight_TEL_Demo_Night_Poster.png)
 - [Poster content](docs/poster-content.md)
 - [Prepared three-minute pitch](docs/prepared-pitch.md)
 - [Customer discovery](docs/customer-discovery.md)
